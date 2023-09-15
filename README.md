@@ -35,7 +35,6 @@
   	
   
 ### Estudando no momento:
-java
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 <div align="center">
   
