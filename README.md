@@ -35,6 +35,7 @@
   	
   
 ### Estudando no momento:
+<img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java">
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 <div align="center">
   
