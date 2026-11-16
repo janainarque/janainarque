@@ -58,7 +58,7 @@ jobs:
               raise SystemExit("Unexpected dark SVG: empty contribution cells not found")
           # Semi-transparent slate blends with the viewer's GitHub background:
           # near-black in dark mode, light gray in light mode.
-          svg = svg.replace(old, 'fill="#475569" fill-opacity="0.16"')
+          svg = svg.replace(old, 'fill="rgba(71,85,105,0.16)"')
           target.write_text(svg, encoding="utf-8")
           print(f"Theme-adaptive SVG written: {target}")
           PY
