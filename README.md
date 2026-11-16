@@ -78,8 +78,6 @@ Minha direção atual é aproximar **engenharia de software, dados e IA aplicada
 
 ---
 
-### Citação
-
 <p align="center"><i>“Se você se dedicar de verdade, consegue.”</i></p>
 <p align="center">— Malsky</p>
 <p align="center"><a href="https://github.com/janainarque">GitHub</a> · <a href="mailto:janainarque@gmail.com">E-mail</a></p>
