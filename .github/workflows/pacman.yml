@@ -20,24 +20,28 @@ jobs:
           games: 'pacman'
           hide_month_labels: 'false'
 
-      - name: Remove opaque SVG backgrounds
+      - name: Style contribution cells and remove SVG backgrounds
         shell: bash
         run: |
           python - <<'PY'
           from pathlib import Path
 
-          backgrounds = {
-              "pacman-contribution-graph.svg": "#ffffff",
-              "pacman-contribution-graph-dark.svg": "#0d1117",
+          styles = {
+              "pacman-contribution-graph.svg": ("#ffffff", "#ebedf0", "#c3cad4"),
+              "pacman-contribution-graph-dark.svg": ("#0d1117", "#161b22", "#30363d"),
           }
-          for filename, color in backgrounds.items():
+          for filename, (background, original_cell, gray_cell) in styles.items():
               path = Path("dist") / filename
               svg = path.read_text(encoding="utf-8")
-              rect = f'<rect width="100%" height="100%" fill="{color}"/>'
-              if svg.count(rect) != 1:
-                  raise SystemExit(f"Expected background not found exactly once: {path}")
-              path.write_text(svg.replace(rect, "", 1), encoding="utf-8")
-              print(f"Transparent background: {path}")
+              rect = f'<rect width="100%" height="100%" fill="{background}"/>'
+              cell = f'fill="{original_cell}"'
+              if svg.count(rect) != 1 or svg.count(cell) == 0:
+                  raise SystemExit(f"Unexpected SVG layout: {path}")
+              svg = svg.replace(rect, "", 1)
+              count = svg.count(cell)
+              svg = svg.replace(cell, f'fill="{gray_cell}"')
+              path.write_text(svg, encoding="utf-8")
+              print(f"Transparent background; {count} cells styled gray: {path}")
           PY
 
       - name: Publish SVG files to output branch
