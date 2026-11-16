@@ -1,65 +1,79 @@
+<!-- Perfil GitHub · Janaina Arque · Versão V4 (prévia, ainda não publicada) -->
+<p align="center">
+  <img src="./assets/hero-pt.svg" alt="Janaina Arque — Analista de Sistemas, Backend, Full Stack e Engenharia de IA Aplicada" width="100%" />
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<p align="center">
+  <strong>🇧🇷 Português</strong> &nbsp;·&nbsp; <a href="./README.en.md">🇺🇸 Read in English</a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+a+Janaina+Arque;Tenho+29+anos;Sou+formada+em+Ciência+da+Computação;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/janainarque/passa-desafio">Passa — projeto em destaque</a> &nbsp;·&nbsp;
+  <a href="mailto:janainarque@gmail.com">Contato</a>
+</p>
 
-- 💻 Hoje eu trabalho como desenvolvedora Full-Stack
-- 🧩 Estudando React Native
-- 📭 Contate-me no email: janainarque@gmail.com
+### Sobre mim
 
-<!-- <div align="center">  -->
-  <!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=janainarque&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Janaina Arque github stats" /> -->
- <!--  <img width=100%  height="180em" src="https://github-readme-stats.vercel.app/api?username=janainarque&show_icons=true&theme=buefy"/>-->
-  <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janainarque&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /> -->
+Sou **Analista de Sistemas**, com **mais de 10 anos de experiência em desenvolvimento de software**. Trabalho principalmente com **PHP e backend**, evoluindo sistemas corporativos, integrações, APIs e regras de negócio que exigem confiabilidade.
 
-<!--</div> -->
+Também atuo com desenvolvimento **full stack** e estou ampliando minha formação em **Engenharia de IA Aplicada**, com interesse em **agentes inteligentes, LLMs e automação**. Gosto de soluções que sejam úteis, testáveis e sustentáveis — não apenas de demonstrações que funcionam uma vez.
 
-### GitHub Stats: 
-<div>
-<a href="https://github.com/janainarque">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janainarque&layout=compact&langs_count=7&theme=buefy"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=janainarque&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</div>
+### Especialidades
 
+| Área | Tecnologias e práticas |
+| :--- | :--- |
+| **Backend** | PHP · Laravel · CodeIgniter · APIs REST · integração de sistemas |
+| **Dados** | SQL Server · PostgreSQL · transações · consistência |
+| **Full stack** | JavaScript · Blade · Livewire · Filament · HTML/CSS |
+| **Qualidade & entrega** | Git · testes automatizados · Docker · CI/CD *(em aprofundamento)* |
+| **IA aplicada** | Python · pipelines de dados · estatística · LangGraph *(em projetos de estudo)* |
+| **Em desenvolvimento** | Agentes de IA · LLMs · RAG · MCP · avaliação e observabilidade |
 
-<!--<div>
-  <a href="https://github.com/janainarque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janainarque&show_icons=true&theme=buefy"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janainarque&layout=compact&langs_count=16&theme=dracula"/>
-</div> -->
+### Projetos selecionados
 
+<a href="https://github.com/janainarque/passa-desafio">
+  <img src="./assets/passa-pt.svg" width="100%" alt="Passa — plataforma demonstrativa de autorização e controle financeiro" />
+</a>
 
-  
-  
-   ### Principais Habilidades:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Html](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp; 
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
-![SqlServer](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp; 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp; 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26)&nbsp;   
-  
-  ### Cursos realizados:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=0D1117&textColor=0D1117)
-<!--![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;	-->
-  
-### Estudando no momento:
-![React](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+Plataforma demonstrativa de cartões corporativos pré-pagos, com **autorização, captura, cancelamento, controle de saldo, concorrência, idempotência e trilha auditável**.
 
-### Eu já trabalhei com:
+**[Ver código e testes do Passa](https://github.com/janainarque/passa-desafio)** · `PHP 8.4` `Laravel 13` `PostgreSQL` `Pest`
 
-**Tecnologias e Ferramentas**
+<sub>Projeto baseado em desafio/template público, com atribuições no repositório.</sub>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="./assets/iapredict-pt.svg" width="100%" alt="IAPredict — simulação, modelos estatísticos e agentes de IA" />
 
+Projeto de estudo que combina **pipeline de dados Bronze/Silver/Gold, ELO, Poisson, Monte Carlo e ferramentas orquestradas com LangGraph**. Os cálculos são realizados em código; o agente auxilia na consulta e interpretação.
 
-<div align="center">
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<sub>Em revisão para publicação: código, credenciais, documentação e créditos da imersão. Link será adicionado quando o repositório estiver pronto.</sub>
+
+<a href="https://github.com/janainarque/samsung-tv-tizen">
+  <img src="./assets/tizen-pt.svg" width="100%" alt="Samsung Tizen — experiência de interface para Smart TV" />
+</a>
+
+Experimento de personalização da experiência em Smart TV, com foco em **interface, navegação e preferências**.
+
+**[Ver repositório Samsung Tizen](https://github.com/janainarque/samsung-tv-tizen)** · `JavaScript` `HTML/CSS` `Tizen`
+
+### Engenharia de IA & agentes
+
+Minha direção atual é aproximar **engenharia de software, dados e IA aplicada**. Já exploro orquestração de ferramentas com LangGraph no IAPredict e sigo estudando **LLMs, agentes, RAG, MCP, avaliação e segurança**.
+
+**Formação:** pós-graduação em Engenharia de IA Aplicada *(em andamento)*.
+
+### Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man das contribuições no GitHub" />
+  </picture>
+</p>
+
+<sub>As imagens do Pac-Man já existem na branch <code>output</code>. Para continuar atualizando, o workflow precisa permanecer ativo.</sub>
+
+---
+
+<p align="center"><i>“Software confiável não é apenas o que funciona. É o que continua correto quando o inesperado acontece.”</i></p>
+<p align="center"><a href="https://github.com/janainarque">GitHub</a> · <a href="mailto:janainarque@gmail.com">E-mail</a></p>
