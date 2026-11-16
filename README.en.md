@@ -1,4 +1,3 @@
-<!-- GitHub Profile · Janaina Arque · V5 -->
 <p align="center">
   <img src="./assets/hero-en.svg" alt="Janaina Arque — Systems Analyst, Backend, Full Stack and Applied AI Engineering" width="100%" />
 </p>
@@ -20,8 +19,6 @@ My main specialty is **PHP backend development**, including **CodeIgniter, Larav
 
 I'm currently pursuing postgraduate studies in **Applied AI Engineering**, expanding my skills in **intelligent agents, LLMs, and process automation** while building on my practical software engineering background.
 
-> Shipping a feature is only the beginning. Understanding the domain, anticipating failures, and keeping systems reliable are essential parts of engineering.
-
 ### 02 / Stack & expertise
 
 | Area | Technologies and practices |
@@ -33,8 +30,6 @@ I'm currently pursuing postgraduate studies in **Applied AI Engineering**, expan
 | **Environment & delivery** | Docker · Docker Compose · CI/CD *(currently deepening)* |
 | **Applied AI** | Python · data pipelines · statistical models · LangGraph *(experiments)* |
 | **Currently exploring** | LLM applications · AI Agents · RAG · MCP · AI evaluation and observability |
-
-<sub>I distinguish technologies used in projects from those I am currently studying or deepening.</sub>
 
 ### 03 / Engineering in practice
 
@@ -49,8 +44,6 @@ I'm currently pursuing postgraduate studies in **Applied AI Engineering**, expan
 </tr>
 </table>
 
-<sub>Examples demonstrated in Passa, not claims about confidential corporate code.</sub>
-
 ### 04 / Selected projects
 
 <a href="https://github.com/janainarque/passa-desafio">
@@ -61,13 +54,9 @@ A demonstration platform for prepaid corporate cards featuring **authorization, 
 
 **[Explore Passa's code and tests](https://github.com/janainarque/passa-desafio)** · `PHP 8.4` `Laravel 13` `PostgreSQL` `Pest`
 
-<sub>Based on a public coding challenge/template; attribution is documented in the repository.</sub>
-
 <img src="./assets/iapredict-en.svg" width="100%" alt="IAPredict — statistical modeling and tool-based AI agents" />
 
 A learning project combining a **Bronze/Silver/Gold data pipeline, ELO ratings, Poisson modeling, Monte Carlo simulations, and LangGraph tool orchestration**. Calculations are performed in code; the agent helps query and interpret results.
-
-<sub>Under review before publication: credentials, code, documentation, and course attribution. A repository link will be added when ready.</sub>
 
 <a href="https://github.com/janainarque/samsung-tv-tizen">
   <img src="./assets/tizen-en.svg" width="100%" alt="Samsung Tizen — experimental smart TV interface" />
@@ -89,11 +78,9 @@ I'm exploring the intersection of **software engineering, data, and applied AI**
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man GitHub contribution graph" />
+    <img src="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man GitHub contribution graph" />
   </picture>
 </p>
-
-<sub>Pac-Man SVGs already exist in the <code>output</code> branch. The workflow must remain enabled to keep them updated.</sub>
 
 ---
 

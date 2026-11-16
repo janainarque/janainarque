@@ -1,4 +1,3 @@
-<!-- Perfil GitHub · Janaina Arque · V5 -->
 <p align="center">
   <img src="./assets/hero-pt.svg" alt="Janaina Arque — Analista de Sistemas, Backend, Full Stack e Engenharia de IA Aplicada" width="100%" />
 </p>
@@ -20,8 +19,6 @@ Minha principal especialidade é **backend com PHP**, incluindo **CodeIgniter, L
 
 Atualmente, curso **Engenharia de IA Aplicada** e amplio minha atuação para **agentes inteligentes, LLMs e automação de processos**, conectando novos recursos de IA à base de Engenharia de Software que construí na prática.
 
-> Construir uma funcionalidade é só o começo. Entender o domínio, antecipar falhas e manter o sistema confiável é parte essencial da engenharia.
-
 ### 02 / Stack & especialidades
 
 | Área | Tecnologias e práticas |
@@ -33,8 +30,6 @@ Atualmente, curso **Engenharia de IA Aplicada** e amplio minha atuação para **
 | **Ambiente & entrega** | Docker · Docker Compose · CI/CD *(em aprofundamento)* |
 | **IA aplicada** | Python · pipelines de dados · modelos estatísticos · LangGraph *(experimentos)* |
 | **Em desenvolvimento** | LLM applications · AI Agents · RAG · MCP · avaliação e observabilidade de IA |
-
-<sub>Distingo as tecnologias utilizadas em projetos daquelas que estou estudando ou aprofundando.</sub>
 
 ### 03 / Engenharia na prática
 
@@ -49,8 +44,6 @@ Atualmente, curso **Engenharia de IA Aplicada** e amplio minha atuação para **
 </tr>
 </table>
 
-<sub>Exemplos demonstrados no projeto Passa, não afirmações sobre código corporativo confidencial.</sub>
-
 ### 04 / Projetos selecionados
 
 <a href="https://github.com/janainarque/passa-desafio">
@@ -61,13 +54,9 @@ Plataforma demonstrativa de cartões corporativos pré-pagos, com **autorizaçã
 
 **[Ver código e testes do Passa](https://github.com/janainarque/passa-desafio)** · `PHP 8.4` `Laravel 13` `PostgreSQL` `Pest`
 
-<sub>Projeto baseado em desafio/template público, com atribuições no repositório.</sub>
-
 <img src="./assets/iapredict-pt.svg" width="100%" alt="IAPredict — simulação, modelos estatísticos e agentes de IA" />
 
 Projeto de estudo que combina **pipeline de dados Bronze/Silver/Gold, ELO, Poisson, Monte Carlo e ferramentas orquestradas com LangGraph**. Os cálculos são realizados em código; o agente auxilia na consulta e interpretação.
-
-<sub>Em revisão para publicação: código, credenciais, documentação e créditos da imersão. Link será adicionado quando o repositório estiver pronto.</sub>
 
 <a href="https://github.com/janainarque/samsung-tv-tizen">
   <img src="./assets/tizen-pt.svg" width="100%" alt="Samsung Tizen — experiência de interface para Smart TV" />
@@ -89,11 +78,9 @@ Minha direção atual é aproximar **engenharia de software, dados e IA aplicada
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man das contribuições no GitHub" />
+    <img src="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man das contribuições no GitHub" />
   </picture>
 </p>
-
-<sub>As imagens do Pac-Man já existem na branch <code>output</code>. Para continuar atualizando, o workflow precisa permanecer ativo.</sub>
 
 ---
 
