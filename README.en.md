@@ -1,4 +1,4 @@
-<!-- GitHub Profile · Janaina Arque · V4 draft, not yet published -->
+<!-- GitHub Profile · Janaina Arque · V5 -->
 <p align="center">
   <img src="./assets/hero-en.svg" alt="Janaina Arque — Systems Analyst, Backend, Full Stack and Applied AI Engineering" width="100%" />
 </p>
@@ -12,24 +12,46 @@
   <a href="mailto:janainarque@gmail.com">Contact</a>
 </p>
 
-### About me
+### 01 / About me
 
-I'm a **Systems Analyst with over 10 years of software development experience**. I specialize in **PHP and backend engineering**, working on business-critical systems, integrations, APIs, and complex business rules.
+I'm a **Systems Analyst with over 10 years of software development experience**. My career has focused on evolving enterprise systems, implementing business rules, integrations, APIs, and solutions that must remain reliable over time.
 
-I also work across the **full stack** and am currently studying **Applied AI Engineering**, with a growing focus on **intelligent agents, LLMs, and automation**. I care about building software that is reliable, testable, and maintainable.
+My main specialty is **PHP backend development**, including **CodeIgniter, Laravel, SQL Server, and PostgreSQL**, along with **JavaScript and full-stack development**. I value readable code, data consistency, testing, traceability, and technical decisions grounded in the product's context.
 
-### Expertise
+I'm currently pursuing postgraduate studies in **Applied AI Engineering**, expanding my skills in **intelligent agents, LLMs, and process automation** while building on my practical software engineering background.
+
+> Shipping a feature is only the beginning. Understanding the domain, anticipating failures, and keeping systems reliable are essential parts of engineering.
+
+### 02 / Stack & expertise
 
 | Area | Technologies and practices |
 | :--- | :--- |
-| **Backend** | PHP · Laravel · CodeIgniter · REST APIs · systems integration |
-| **Data** | SQL Server · PostgreSQL · transactions · data consistency |
-| **Full stack** | JavaScript · Blade · Livewire · Filament · HTML/CSS |
-| **Quality & delivery** | Git · automated testing · Docker · CI/CD *(currently deepening)* |
-| **Applied AI** | Python · data pipelines · statistics · LangGraph *(learning projects)* |
-| **Currently exploring** | AI agents · LLMs · RAG · MCP · evaluation and observability |
+| **Backend & integrations** | PHP · Laravel · CodeIgniter · REST APIs · business rules |
+| **Data & consistency** | SQL Server · PostgreSQL · SQL · relational modeling · transactions |
+| **Full stack** | JavaScript · HTML/CSS · Blade · Livewire · Filament · Tailwind CSS |
+| **Quality & collaboration** | Git · GitHub · code review · automated tests · documentation |
+| **Environment & delivery** | Docker · Docker Compose · CI/CD *(currently deepening)* |
+| **Applied AI** | Python · data pipelines · statistical models · LangGraph *(experiments)* |
+| **Currently exploring** | LLM applications · AI Agents · RAG · MCP · AI evaluation and observability |
 
-### Selected projects
+<sub>I distinguish technologies used in projects from those I am currently studying or deepening.</sub>
+
+### 03 / Engineering in practice
+
+<table>
+<tr>
+<td width="50%" valign="top"><b>Concurrency & integrity</b><br/><sub>Transactions and locks for simultaneous financial operations.</sub></td>
+<td width="50%" valign="top"><b>Idempotency</b><br/><sub>Preventing duplicate processing of requests and events.</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>Out-of-order events</b><br/><sub>Handling repeated messages and reconciling states.</sub></td>
+<td valign="top"><b>Testability & auditability</b><br/><sub>Edge cases, automated tests, and traceability of operations.</sub></td>
+</tr>
+</table>
+
+<sub>Examples demonstrated in Passa, not claims about confidential corporate code.</sub>
+
+### 04 / Selected projects
 
 <a href="https://github.com/janainarque/passa-desafio">
   <img src="./assets/passa-en.svg" width="100%" alt="Passa — corporate prepaid card authorization and financial controls" />
@@ -55,13 +77,13 @@ An experimental custom Smart TV interface focused on **navigation, preferences, 
 
 **[Explore the Samsung Tizen repository](https://github.com/janainarque/samsung-tv-tizen)** · `JavaScript` `HTML/CSS` `Tizen`
 
-### Applied AI & intelligent agents
+### 05 / Applied AI & intelligent agents
 
 I'm exploring the intersection of **software engineering, data, and applied AI**. I have experimented with LangGraph tool orchestration in IAPredict and continue learning about **LLMs, agents, RAG, MCP, evaluation, and safety**.
 
 **Education:** postgraduate studies in Applied AI Engineering *(in progress)*.
 
-### GitHub contributions
+### 06 / GitHub contributions
 
 <p align="center">
   <picture>

@@ -2,8 +2,8 @@
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090C18"/><stop offset=".65" stop-color="#0D1122"/><stop offset="1" stop-color="#17102B"/></linearGradient><linearGradient id="stroke" x1="0" x2="1"><stop stop-color="#6EE7C8"/><stop offset="1" stop-color="#9B84FF"/></linearGradient><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#A6B3D6" opacity=".17"/></pattern></defs>
 <rect width="1280" height="390" rx="18" fill="url(#bg)"/><rect width="1280" height="390" rx="18" fill="url(#grid)"/>
 <circle cx="1030" cy="195" r="280" fill="#7657D8" opacity=".09"/>
-<path d="M48 69h26m-26 0 12-12m-12 12 12 12" stroke="#6EE7C8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-<text x="92" y="79" font-family="Arial, sans-serif" font-weight="700" font-size="28" fill="#F8FAFF">janaina<tspan fill="#70E5C8">.</tspan></text>
+<path d="M60 59 43 69 60 79 M78 52 68 86 M84 59 101 69 84 79" stroke="#6EE7C8" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter" fill="none"/>
+<text x="123" y="79" font-family="Arial, sans-serif" font-weight="700" font-size="28" fill="#F8FAFF">janaina<tspan fill="#70E5C8">.</tspan></text>
 <rect x="48" y="111" width="236" height="26" rx="13" fill="#1A2840" stroke="#354760"/><circle cx="65" cy="124" r="4" fill="#6EE7C8"/><text x="78" y="129" font-family="monospace" font-weight="600" font-size="12" fill="#B3C5E2" letter-spacing="1">SOFTWARE ENGINEERING</text>
 <text x="48" y="210" font-family="Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="-2"><tspan fill="#F8FAFF">Olá, sou </tspan><tspan fill="#70E5C8">Janaina.</tspan></text>
 <text x="51" y="257" font-family="Arial, sans-serif" font-size="23" font-weight="600" fill="#E4E9F8">Analista de Sistemas  /  Backend &amp; Full Stack</text>

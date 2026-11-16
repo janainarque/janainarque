@@ -1,4 +1,4 @@
-<!-- Perfil GitHub · Janaina Arque · Versão V4 (prévia, ainda não publicada) -->
+<!-- Perfil GitHub · Janaina Arque · V5 -->
 <p align="center">
   <img src="./assets/hero-pt.svg" alt="Janaina Arque — Analista de Sistemas, Backend, Full Stack e Engenharia de IA Aplicada" width="100%" />
 </p>
@@ -12,24 +12,46 @@
   <a href="mailto:janainarque@gmail.com">Contato</a>
 </p>
 
-### Sobre mim
+### 01 / Sobre mim
 
-Sou **Analista de Sistemas**, com **mais de 10 anos de experiência em desenvolvimento de software**. Trabalho principalmente com **PHP e backend**, evoluindo sistemas corporativos, integrações, APIs e regras de negócio que exigem confiabilidade.
+Sou **Analista de Sistemas**, com **mais de 10 anos de experiência em desenvolvimento de software**. Minha trajetória é marcada pela evolução de sistemas corporativos, implementação de regras de negócio, integrações, APIs e soluções que precisam continuar confiáveis ao longo do tempo.
 
-Também atuo com desenvolvimento **full stack** e estou ampliando minha formação em **Engenharia de IA Aplicada**, com interesse em **agentes inteligentes, LLMs e automação**. Gosto de soluções que sejam úteis, testáveis e sustentáveis — não apenas de demonstrações que funcionam uma vez.
+Minha principal especialidade é **backend com PHP**, incluindo **CodeIgniter, Laravel, SQL Server e PostgreSQL**, com atuação também em **JavaScript e desenvolvimento full stack**. Valorizo código compreensível, consistência de dados, testes, rastreabilidade e decisões técnicas alinhadas ao contexto do produto.
 
-### Especialidades
+Atualmente, curso **Engenharia de IA Aplicada** e amplio minha atuação para **agentes inteligentes, LLMs e automação de processos**, conectando novos recursos de IA à base de Engenharia de Software que construí na prática.
+
+> Construir uma funcionalidade é só o começo. Entender o domínio, antecipar falhas e manter o sistema confiável é parte essencial da engenharia.
+
+### 02 / Stack & especialidades
 
 | Área | Tecnologias e práticas |
 | :--- | :--- |
-| **Backend** | PHP · Laravel · CodeIgniter · APIs REST · integração de sistemas |
-| **Dados** | SQL Server · PostgreSQL · transações · consistência |
-| **Full stack** | JavaScript · Blade · Livewire · Filament · HTML/CSS |
-| **Qualidade & entrega** | Git · testes automatizados · Docker · CI/CD *(em aprofundamento)* |
-| **IA aplicada** | Python · pipelines de dados · estatística · LangGraph *(em projetos de estudo)* |
-| **Em desenvolvimento** | Agentes de IA · LLMs · RAG · MCP · avaliação e observabilidade |
+| **Backend & integrações** | PHP · Laravel · CodeIgniter · APIs REST · regras de negócio |
+| **Dados & consistência** | SQL Server · PostgreSQL · SQL · modelagem relacional · transações |
+| **Full stack** | JavaScript · HTML/CSS · Blade · Livewire · Filament · Tailwind CSS |
+| **Qualidade & colaboração** | Git · GitHub · revisão de código · testes automatizados · documentação |
+| **Ambiente & entrega** | Docker · Docker Compose · CI/CD *(em aprofundamento)* |
+| **IA aplicada** | Python · pipelines de dados · modelos estatísticos · LangGraph *(experimentos)* |
+| **Em desenvolvimento** | LLM applications · AI Agents · RAG · MCP · avaliação e observabilidade de IA |
 
-### Projetos selecionados
+<sub>Distingo as tecnologias utilizadas em projetos daquelas que estou estudando ou aprofundando.</sub>
+
+### 03 / Engenharia na prática
+
+<table>
+<tr>
+<td width="50%" valign="top"><b>Concorrência & integridade</b><br/><sub>Transações e bloqueios para operações financeiras simultâneas.</sub></td>
+<td width="50%" valign="top"><b>Idempotência</b><br/><sub>Prevenção de duplicidade no processamento de requisições e eventos.</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>Eventos fora de ordem</b><br/><sub>Tratamento de mensagens repetidas e reconciliação de estados.</sub></td>
+<td valign="top"><b>Testabilidade & auditoria</b><br/><sub>Cenários de borda, testes automatizados e rastreabilidade de operações.</sub></td>
+</tr>
+</table>
+
+<sub>Exemplos demonstrados no projeto Passa, não afirmações sobre código corporativo confidencial.</sub>
+
+### 04 / Projetos selecionados
 
 <a href="https://github.com/janainarque/passa-desafio">
   <img src="./assets/passa-pt.svg" width="100%" alt="Passa — plataforma demonstrativa de autorização e controle financeiro" />
@@ -55,13 +77,13 @@ Experimento de personalização da experiência em Smart TV, com foco em **inter
 
 **[Ver repositório Samsung Tizen](https://github.com/janainarque/samsung-tv-tizen)** · `JavaScript` `HTML/CSS` `Tizen`
 
-### Engenharia de IA & agentes
+### 05 / Engenharia de IA & agentes
 
 Minha direção atual é aproximar **engenharia de software, dados e IA aplicada**. Já exploro orquestração de ferramentas com LangGraph no IAPredict e sigo estudando **LLMs, agentes, RAG, MCP, avaliação e segurança**.
 
 **Formação:** pós-graduação em Engenharia de IA Aplicada *(em andamento)*.
 
-### Contribuições
+### 06 / Contribuições
 
 <p align="center">
   <picture>
