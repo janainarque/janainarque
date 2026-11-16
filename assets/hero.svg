@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="410" viewBox="0 0 1280 410" role="img" aria-label="Janaina Arque — Backend Engineering, Full Stack e IA Aplicada">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090B17"/><stop offset="1" stop-color="#0D1023"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#68E6C6"/><stop offset="1" stop-color="#8E75FF"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#6953B8" stop-opacity=".35"/><stop offset="1" stop-color="#6953B8" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#B9B5E4" opacity=".14"/></pattern>
+</defs>
+<rect width="1280" height="410" rx="20" fill="url(#bg)"/>
+<circle cx="1060" cy="160" r="310" fill="url(#halo)"/>
+<rect width="1280" height="410" fill="url(#dots)" opacity=".45"/>
+<path d="M52 77h25m-25 0 11-12m-11 12 11 12m42-24-11 24" stroke="#6EE9C8" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="125" y="85" font-family="Segoe UI, Arial, sans-serif" font-weight="750" font-size="28" fill="#F4F6FF">janaina<tspan fill="#76E5C8">.</tspan></text>
+<rect x="52" y="120" width="245" height="26" rx="13" fill="#19243A" stroke="#2C3B59"/>
+<circle cx="67" cy="133" r="4" fill="#70E5C5"/>
+<text x="79" y="138" font-family="Consolas, monospace" font-size="12" font-weight="600" fill="#A6B8D2" letter-spacing="1.1">SOFTWARE ENGINEERING</text>
+<text x="52" y="219" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="800" fill="#FAFBFF" letter-spacing="-2">Olá, sou <tspan fill="#78E6C7">Janaina.</tspan></text>
+<text x="54" y="269" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="500" fill="#E7E9F5">Analista de Sistemas · Backend</text>
+<text x="54" y="302" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="500" fill="#E7E9F5">Full Stack · IA Aplicada em formação</text>
+<text x="54" y="365" font-family="Consolas, monospace" font-size="17" fill="#A7ADC5">PHP  ·  Laravel  ·  JavaScript  ·  Software Engineering</text>
+<rect x="824" y="83" width="406" height="273" rx="15" fill="#11172A" stroke="#35405D" stroke-width="1.5"/>
+<rect x="825" y="84" width="404" height="40" rx="14" fill="#1A2036"/>
+<rect x="825" y="111" width="404" height="14" fill="#1A2036"/>
+<circle cx="849" cy="104" r="5" fill="#F58A98"/><circle cx="868" cy="104" r="5" fill="#F4C77D"/><circle cx="887" cy="104" r="5" fill="#70E5C5"/>
+<text x="1044" y="109" font-family="Consolas, monospace" font-size="13" fill="#8792B6">engineer.ts</text>
+<text x="848" y="163" font-family="Consolas, monospace" font-size="16" fill="#A58AFF">const</text>
+<text x="910" y="163" font-family="Consolas, monospace" font-size="16" fill="#E6EAF9">engineer = {</text>
+<text x="869" y="199" font-family="Consolas, monospace" font-size="16" fill="#72E2C4">name:</text><text x="932" y="199" font-family="Consolas, monospace" font-size="16" fill="#E9D39A">"Janaina Arque",</text>
+<text x="869" y="235" font-family="Consolas, monospace" font-size="16" fill="#72E2C4">focus:</text><text x="939" y="235" font-family="Consolas, monospace" font-size="16" fill="#E9D39A">"Backend + AI",</text>
+<text x="869" y="271" font-family="Consolas, monospace" font-size="16" fill="#72E2C4">mindset:</text><text x="959" y="271" font-family="Consolas, monospace" font-size="16" fill="#E9D39A">"Build. Validate.",</text>
+<text x="848" y="306" font-family="Consolas, monospace" font-size="16" fill="#E6EAF9">};</text>
+<rect x="1100" y="325" width="108" height="22" rx="11" fill="#203A37"/><circle cx="1114" cy="336" r="4" fill="#72E2C4"/><text x="1126" y="341" font-family="Consolas, monospace" font-size="11" fill="#9CF0D9">BUILDING</text>
+</svg>
