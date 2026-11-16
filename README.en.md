@@ -74,11 +74,9 @@ I'm exploring the intersection of **software engineering, data, and applied AI**
 
 ### 06 / GitHub contributions
 
-<p align="center">
-  ![Animated Pac-Man GitHub contribution graph](https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+![Animated Pac-Man GitHub contribution graph](https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
 
-  ![Animated Pac-Man GitHub contribution graph](https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph.svg#gh-light-mode-only)
-</p>
+![Animated Pac-Man GitHub contribution graph](https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph.svg#gh-light-mode-only)
 
 ---
 
