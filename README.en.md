@@ -78,8 +78,6 @@ I'm exploring the intersection of **software engineering, data, and applied AI**
 
 ---
 
-### Quote
-
 <p align="center"><i>“If you truly commit yourself, you can do it.”</i></p>
 <p align="center">— Malsky</p>
 <p align="center"><a href="https://github.com/janainarque">GitHub</a> · <a href="mailto:janainarque@gmail.com">Email</a></p>
