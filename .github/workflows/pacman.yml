@@ -28,7 +28,7 @@ jobs:
 
           styles = {
               "pacman-contribution-graph.svg": ("#ffffff", "#ebedf0", "#c3cad4"),
-              "pacman-contribution-graph-dark.svg": ("#0d1117", "#161b22", "#30363d"),
+              "pacman-contribution-graph-dark.svg": ("#0d1117", "#161b22", "#161b22"),
           }
           for filename, (background, original_cell, gray_cell) in styles.items():
               path = Path("dist") / filename
