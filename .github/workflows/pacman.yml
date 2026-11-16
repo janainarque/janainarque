@@ -20,6 +20,26 @@ jobs:
           games: 'pacman'
           hide_month_labels: 'false'
 
+      - name: Remove opaque SVG backgrounds
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          backgrounds = {
+              "pacman-contribution-graph.svg": "#ffffff",
+              "pacman-contribution-graph-dark.svg": "#0d1117",
+          }
+          for filename, color in backgrounds.items():
+              path = Path("dist") / filename
+              svg = path.read_text(encoding="utf-8")
+              rect = f'<rect width="100%" height="100%" fill="{color}"/>'
+              if svg.count(rect) != 1:
+                  raise SystemExit(f"Expected background not found exactly once: {path}")
+              path.write_text(svg.replace(rect, "", 1), encoding="utf-8")
+              print(f"Transparent background: {path}")
+          PY
+
       - name: Publish SVG files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
