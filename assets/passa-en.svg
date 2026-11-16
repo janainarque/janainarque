@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="206" viewBox="0 0 1120 206" role="img" aria-label="PASSA">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101724"/><stop offset="1" stop-color="#101326"/></linearGradient><pattern id="p" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#A0AED0" opacity=".13"/></pattern></defs>
+<rect width="1120" height="206" rx="12" fill="url(#b)" stroke="#303C55"/><rect width="1120" height="206" rx="12" fill="url(#p)"/>
+<rect x="0" y="0" width="6" height="206" rx="3" fill="#6EE7C8"/>
+<text x="34" y="39" font-family="monospace" font-size="14" font-weight="600" letter-spacing="1.4" fill="#6EE7C8">01 / BACKEND ENGINEERING</text>
+<text x="34" y="92" font-family="Arial, sans-serif" font-size="42" font-weight="800" fill="#F3F7FF">PASSA</text>
+<text x="34" y="127" font-family="Arial, sans-serif" font-size="19" fill="#D7E1F1">Financial authorization · consistency · auditability</text>
+<text x="34" y="160" font-family="Arial, sans-serif" font-size="16" fill="#A5B6CF">Card authorizations · idempotency · concurrency</text>
+<rect x="34" y="178" width="1050" height="1" fill="#2E3B52"/>
+<text x="1079" y="195" text-anchor="end" font-family="monospace" font-size="13" fill="#879BB8">Laravel 13    PostgreSQL    Pest    Filament</text>
+<circle cx="986" cy="84" r="42" fill="#6EE7C8" opacity=".09"/><circle cx="986" cy="84" r="26" fill="none" stroke="#6EE7C8" opacity=".7" stroke-width="3"/><path d="M974 84h24m-11-11 11 11-11 11" stroke="#6EE7C8" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

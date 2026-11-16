@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-label="Janaina Arque — Software Engineering">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090C18"/><stop offset=".65" stop-color="#0D1122"/><stop offset="1" stop-color="#17102B"/></linearGradient><linearGradient id="stroke" x1="0" x2="1"><stop stop-color="#6EE7C8"/><stop offset="1" stop-color="#9B84FF"/></linearGradient><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#A6B3D6" opacity=".17"/></pattern></defs>
+<rect width="1280" height="390" rx="18" fill="url(#bg)"/><rect width="1280" height="390" rx="18" fill="url(#grid)"/>
+<circle cx="1030" cy="195" r="280" fill="#7657D8" opacity=".09"/>
+<path d="M48 69h26m-26 0 12-12m-12 12 12 12" stroke="#6EE7C8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="92" y="79" font-family="Arial, sans-serif" font-weight="700" font-size="28" fill="#F8FAFF">janaina<tspan fill="#70E5C8">.</tspan></text>
+<rect x="48" y="111" width="236" height="26" rx="13" fill="#1A2840" stroke="#354760"/><circle cx="65" cy="124" r="4" fill="#6EE7C8"/><text x="78" y="129" font-family="monospace" font-weight="600" font-size="12" fill="#B3C5E2" letter-spacing="1">SOFTWARE ENGINEERING</text>
+<text x="48" y="210" font-family="Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="-2"><tspan fill="#F8FAFF">Olá, sou </tspan><tspan fill="#70E5C8">Janaina.</tspan></text>
+<text x="51" y="257" font-family="Arial, sans-serif" font-size="23" font-weight="600" fill="#E4E9F8">Analista de Sistemas  /  Backend &amp; Full Stack</text>
+<text x="51" y="290" font-family="Arial, sans-serif" font-size="22" fill="#C4D0E5">Engenharia de IA Aplicada  ·  AI Agents em evolução</text>
+<path d="M50 322h692" stroke="#31405C" stroke-width="1"/>
+<text x="51" y="355" font-family="monospace" font-size="16" fill="#AAB9D3">PHP  ·  LARAVEL  ·  JAVASCRIPT  ·  APPLIED AI</text>
+<rect x="823" y="70" width="408" height="257" rx="15" fill="#11182B" stroke="#3D4A67"/>
+<path d="M838 70h378a15 15 0 0 1 15 15v25H823V85a15 15 0 0 1 15-15Z" fill="#1B2439"/>
+<circle cx="849" cy="91" r="5" fill="#FF8B9D"/><circle cx="868" cy="91" r="5" fill="#F8C875"/><circle cx="887" cy="91" r="5" fill="#70E5C8"/>
+<text x="1091" y="95" font-family="monospace" font-size="13" fill="#96A7C9">engineer.ts</text>
+<text x="846" y="147" font-family="monospace" font-size="17" fill="#B59AFF">const</text><text x="905" y="147" font-family="monospace" font-size="17" fill="#E7EEFF">engineer = &#123;</text>
+<text x="866" y="186" font-family="monospace" font-size="16" fill="#78E7C9">name:</text><text x="934" y="186" font-family="monospace" font-size="16" fill="#F4D18C">"Janaina Arque",</text>
+<text x="866" y="220" font-family="monospace" font-size="16" fill="#78E7C9">focus:</text><text x="941" y="220" font-family="monospace" font-size="16" fill="#F4D18C">"Backend + AI",</text>
+<text x="866" y="254" font-family="monospace" font-size="16" fill="#78E7C9">mindset:</text><text x="962" y="254" font-family="monospace" font-size="16" fill="#F4D18C">"Build. Validate."</text>
+<text x="846" y="291" font-family="monospace" font-size="17" fill="#E7EEFF">&#125;;</text>
+<rect x="1115" y="300" width="99" height="19" rx="9.5" fill="#1E3B38"/><circle cx="1129" cy="310" r="3.5" fill="#6EE7C8"/><text x="1140" y="314" font-family="monospace" font-size="10" fill="#A4F0D9">BUILDING</text>
+</svg>
