@@ -75,7 +75,8 @@ Minha direção atual é aproximar **engenharia de software, dados e IA aplicada
 ### 06 / Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-profile.svg" width="100%" alt="Pac-Man animado das contribuições no GitHub" />
+  <img src="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" width="100%" alt="Pac-Man animado das contribuições — tema escuro" />
+  <img src="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph.svg#gh-light-mode-only" width="100%" alt="Pac-Man animado das contribuições — tema claro" />
 </p>
 
 ---
