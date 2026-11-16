@@ -1,65 +1,109 @@
+<!-- GitHub Profile · Janaina Arque · github.com/janainarque -->
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Janaina Arque — Analista de Sistemas, Backend, Full Stack e Engenharia de IA Aplicada" />
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<p align="center">
+  <a href="https://github.com/janainarque/passa-desafio"><img src="https://img.shields.io/badge/CASE_EM_DESTAQUE-PASSA-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Projeto Passa" /></a>
+  <a href="mailto:janainarque@gmail.com"><img src="https://img.shields.io/badge/CONTATO-E--MAIL-162B38?style=flat-square&logo=gmail&logoColor=white" alt="Contato por e-mail" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+a+Janaina+Arque;Tenho+29+anos;Sou+formada+em+Ciência+da+Computação;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+### 01 / Sobre mim
 
-- 💻 Hoje eu trabalho como desenvolvedora Full-Stack
-- 🧩 Estudando React Native
-- 📭 Contate-me no email: janainarque@gmail.com
+Sou **Analista de Sistemas**, com **mais de 10 anos de experiência em desenvolvimento de software**. Minha trajetória é marcada pela evolução de sistemas corporativos, implementação de regras de negócio, integrações, APIs e soluções que precisam continuar confiáveis ao longo do tempo.
 
-<!-- <div align="center">  -->
-  <!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=janainarque&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Janaina Arque github stats" /> -->
- <!--  <img width=100%  height="180em" src="https://github-readme-stats.vercel.app/api?username=janainarque&show_icons=true&theme=buefy"/>-->
-  <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janainarque&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /> -->
+Minha principal especialidade é **backend com PHP**, incluindo **CodeIgniter, Laravel, SQL Server e PostgreSQL**, com atuação também em **JavaScript e desenvolvimento full stack**. Valorizo código compreensível, consistência de dados, testes, rastreabilidade e decisões técnicas alinhadas ao contexto do produto.
 
-<!--</div> -->
+Atualmente, curso **Engenharia de IA Aplicada** e amplio minha atuação para **agentes inteligentes, LLMs e automação de processos**, conectando novos recursos de IA à base de Engenharia de Software que construí na prática.
 
-### GitHub Stats: 
-<div>
-<a href="https://github.com/janainarque">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janainarque&layout=compact&langs_count=7&theme=buefy"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=janainarque&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</div>
+> Construir uma funcionalidade é só o começo. Entender o domínio, antecipar falhas e manter o sistema confiável é parte essencial da engenharia.
 
+### 02 / Stack & especialidades
 
-<!--<div>
-  <a href="https://github.com/janainarque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janainarque&show_icons=true&theme=buefy"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janainarque&layout=compact&langs_count=16&theme=dracula"/>
-</div> -->
+| Área | Tecnologias e práticas |
+| :--- | :--- |
+| **Backend & integrações** | PHP · Laravel · CodeIgniter · APIs REST · regras de negócio |
+| **Dados & consistência** | SQL Server · PostgreSQL · SQL · modelagem relacional · transações |
+| **Full stack** | JavaScript · HTML/CSS · Blade · Livewire · Filament · Tailwind CSS |
+| **Qualidade & colaboração** | Git · GitHub · revisão de código · testes automatizados · documentação |
+| **Ambiente & entrega** | Docker · Docker Compose · CI/CD *(em aprofundamento)* |
+| **IA aplicada** | Python · pipelines de dados · modelos estatísticos · LangGraph *(experimentos)* |
+| **Em desenvolvimento** | LLM applications · AI Agents · RAG · MCP · avaliação e observabilidade de IA |
 
+<sub>Distingo as tecnologias utilizadas em projetos daquelas que estou estudando ou aprofundando.</sub>
 
-  
-  
-   ### Principais Habilidades:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Html](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp; 
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
-![SqlServer](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp; 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp; 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26)&nbsp;   
-  
-  ### Cursos realizados:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=0D1117&textColor=0D1117)
-<!--![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;	-->
-  
-### Estudando no momento:
-![React](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### 03 / Engenharia na prática
 
-### Eu já trabalhei com:
+<table>
+<tr>
+<td width="50%" valign="top"><b>Concorrência & integridade</b><br/><sub>Transações e bloqueios para operações financeiras simultâneas.</sub></td>
+<td width="50%" valign="top"><b>Idempotência</b><br/><sub>Prevenção de duplicidade no processamento de requisições e eventos.</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>Eventos fora de ordem</b><br/><sub>Tratamento de mensagens repetidas e reconciliação de estados.</sub></td>
+<td valign="top"><b>Testabilidade & auditoria</b><br/><sub>Cenários de borda, testes automatizados e rastreabilidade de operações.</sub></td>
+</tr>
+</table>
 
-**Tecnologias e Ferramentas**
+<sub>Exemplos demonstrados no projeto Passa, não afirmações sobre código corporativo confidencial.</sub>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 04 / Projetos selecionados
 
+#### Passa · Autorização e controle financeiro
 
-<div align="center">
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<a href="https://github.com/janainarque/passa-desafio"><img src="https://raw.githubusercontent.com/janainarque/passa-desafio/main/docs/images/dashboard.png" width="100%" alt="Dashboard do projeto Passa" /></a>
+
+**PHP 8.4 · Laravel 13 · PostgreSQL · Filament · Livewire · Pest**
+
+Plataforma demonstrativa para cartões corporativos pré-pagos. Explora **autorizações, capturas, cancelamentos, controle de saldo, limites por cartão, idempotência, concorrência e eventos fora de ordem**, com trilha auditável de movimentações.
+
+**[Explorar código, testes e decisões de arquitetura →](https://github.com/janainarque/passa-desafio)**
+
+<sub>Projeto demonstrativo desenvolvido a partir de um desafio/template público, com atribuições documentadas no repositório.</sub>
+
+#### IAPredict · Machine Learning + agentes de IA
+
+**Python · pandas · PostgreSQL · Streamlit · LangChain · LangGraph**
+
+Projeto de estudo que combina **pipeline Bronze → Silver → Gold**, classificação por **ELO**, modelagem de gols com **Poisson**, simulações **Monte Carlo** e um **agente com ferramentas** para consultar resultados calculados e produzir explicações.
+
+**Decisão técnica:** as probabilidades são calculadas por código; o modelo de linguagem é usado para orquestração e interpretação, não como fonte de números inventados.
+
+<sub>Em revisão para publicação. O código, a documentação, as dependências e as credenciais estão passando por ajustes. Projeto originado de uma imersão, com referências e créditos a preservar. Não há repositório público vinculado por enquanto.</sub>
+
+#### Samsung TV Tizen · Interface e experiência de uso
+
+**JavaScript · HTML/CSS · Tizen**
+
+Projeto experimental de personalização da experiência em Smart TV Samsung, envolvendo interface, navegação, preferências e desenvolvimento para o ecossistema Tizen.
+
+**[Explorar repositório →](https://github.com/janainarque/samsung-tv-tizen)**
+
+**Experiência corporativa:** também atuo na manutenção e evolução de sistemas empresariais, integrações e fluxos de negócio. Por confidencialidade, não publico código nem dados internos dessas aplicações.
+
+### 05 / Applied AI & Intelligent Agents
+
+Minha direção de desenvolvimento é integrar **Engenharia de Software, dados e IA** para construir soluções úteis, verificáveis e sustentáveis.
+
+- **Prática atual:** experimentos com Python, modelos estatísticos, pipelines de dados e orquestração de ferramentas com LangGraph no IAPredict.
+- **Em estudo e evolução:** aplicações com LLMs, agentes de IA, RAG, MCP, avaliação, segurança e observabilidade.
+- **Formação:** pós-graduação em **Engenharia de IA Aplicada** *(em andamento)*.
+
+O foco não é apenas conectar um modelo de linguagem a uma interface, mas pensar em **arquitetura, integração, qualidade e limites operacionais** para aplicações inteligentes.
+
+### 06 / Atividade no GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/janainarque/janainarque/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man animado sobre o histórico de contribuições no GitHub" />
+  </picture>
+</p>
+
+<sub>O gráfico é gerado pelo GitHub Actions e aparecerá após a primeira execução bem-sucedida do workflow incluído neste pacote.</sub>
+
+---
+
+<p align="center"><i>“Software confiável não é apenas o que funciona.<br/>É o que continua correto quando o inesperado acontece.”</i></p>
+<p align="center"><a href="https://github.com/janainarque">GitHub</a> · <a href="mailto:janainarque@gmail.com">E-mail</a></p>
