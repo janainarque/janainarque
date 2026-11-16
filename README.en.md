@@ -78,5 +78,8 @@ I'm exploring the intersection of **software engineering, data, and applied AI**
 
 ---
 
-<p align="center"><i>“Reliable software is not just what works. It's what stays correct when the unexpected happens.”</i></p>
+### Quote
+
+<p align="center"><i>“If you truly commit yourself, you can do it.”</i></p>
+<p align="center">— Malsky</p>
 <p align="center"><a href="https://github.com/janainarque">GitHub</a> · <a href="mailto:janainarque@gmail.com">Email</a></p>
